@@ -18,6 +18,6 @@
 ㅤㅤㅤㅤㅤ
  ㅤㅤㅤㅤ ㅤㅤㅤㅤ $\color{#2d2a23}\textsf{"}$ $\color{#d3c1cf}\textsf{iㅤsee}$ $\color{#cbd381}\textsf{ㅤaㅤlittleㅤbit}$ $\color{#6377bf}\textsf{ㅤof}$ $\color{#2d2a23}\textsf{ㅤyou}$ $\color{#2d2a23}\textsf{"}$
 
- ݂۫　⑅　　𓈒　 ˖　 ۪‿ 　𓈒ּ֯݁
+ㅤㅤ  ݂۫　⑅　　𓈒 ✦　 ˖　 ۪‿ 　𓈒ּ֯݁
  
  $\color{#6377bf}\textsf{planet}$ㅤ $\color{#2d2a23}\textsf{or}$ㅤ $\color{#d3c1cf}\textsf{mars}$
