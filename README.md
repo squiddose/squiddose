@@ -24,7 +24,7 @@
  
 ㅤ ㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=yuriletsky&color=6377bf&label=honeypie)
 
-  ㅤ ㅤ ㅤ<img src="https://i.ibb.co/VY64tsmG/Untitled922-20260714235815.png" alt="meow" width="11%"/>
+   ㅤㅤㅤㅤ<img src="https://i.ibb.co/VY64tsmG/Untitled922-20260714235815.png" alt="meow" width="11%"/>
   ㅤ
   
 <a href="https://planetlordd.atabook.org" target="_blank">
