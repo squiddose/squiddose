@@ -20,4 +20,4 @@
 
 ㅤㅤ ㅤ $\color{#6377bf}\textsf{ ݂۫　⑅　}$　 $\color{#cbd381}\textsf{𓈒 ✦　 ˖　}$ $\color{#d3c1cf}\textsf{ ۪‿ 　𓈒ּ֯݁}$
  
- $\color{#6377bf}\textsf{planet}$ㅤ $\color{#2d2a23}\textsf{or}$ㅤ $\color{#d3c1cf}\textsf{mars}$ㅤ $\color{#cbd381}\textsf{5}$ $\color{#6377bf}\textsf{teen}$
+ $\color{#6377bf}\textsf{planet}$ㅤ $\color{#2d2a23}\textsf{or}$ㅤ $\color{#d3c1cf}\textsf{mars}$ㅤ $\color{#2d2a23}\textsf{,}$ㅤ $\color{#cbd381}\textsf{5}$ $\color{#6377bf}\textsf{teen}$
