@@ -21,3 +21,7 @@
 ㅤㅤ ㅤ $\color{#6377bf}\textsf{ ݂۫　⑅　}$　 $\color{#cbd381}\textsf{𓈒 ✦　 ˖　}$ $\color{#d3c1cf}\textsf{ ۪‿ 　𓈒ּ֯݁}$
  
  ㅤ $\color{#6377bf}\textsf{planet}$ㅤ $\color{#2d2a23}\textsf{or}$ㅤ $\color{#d3c1cf}\textsf{mars}$ㅤ $\color{#2d2a23}\textsf{,}$ㅤ $\color{#cbd381}\textsf{5}$ $\color{#6377bf}\textsf{teen}$
+ 
+ㅤ ㅤㅤ
+
+![](https://komarev.com/ghpvc/?username=yuriletsky&color=6377bf&label=honeypie)
