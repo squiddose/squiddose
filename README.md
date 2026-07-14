@@ -29,6 +29,6 @@
   
 <a href="https://planetlordd.atabook.org" target="_blank">
    <img src="https://i.ibb.co/7LSwg73/Untitled927-20260714231308.png" alt="meow" width="10%"/>
-</a> <a href="https://prey.lol/@planetlord" target="_blank">
+</a> ㅤ ㅤ ㅤㅤ<a href="https://prey.lol/@planetlord" target="_blank">
    <img src="https://i.ibb.co/twPqvZWY/Untitled927-20260714231306.png" alt="meow" width="9%"/>
 </a>
