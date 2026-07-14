@@ -25,3 +25,14 @@
 ㅤ ㅤㅤ
 
 ㅤ ㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=yuriletsky&color=6377bf&label=honeypie)
+
+ ㅤ
+ 
+  ㅤ
+
+  ㅤ
+<a href="https://planetlordd.atabook.org" target="_blank">
+   <img src="https://i.ibb.co/7LSwg73/Untitled927-20260714231308.png" alt="meow" width="11%"/>
+</a> <a href="https://prey.lol/@planetlord" target="_blank">
+   <img src="https://i.ibb.co/twPqvZWY/Untitled927-20260714231306.png" alt="meow" width="10%"/>
+</a>
