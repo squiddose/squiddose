@@ -22,8 +22,6 @@
  
  ㅤ $\color{#6377bf}\textsf{planet}$ㅤ $\color{#2d2a23}\textsf{or}$ㅤ $\color{#d3c1cf}\textsf{mars}$ㅤ $\color{#2d2a23}\textsf{,}$ㅤ $\color{#cbd381}\textsf{5}$ $\color{#6377bf}\textsf{teen}$
  
-ㅤ ㅤㅤ
-
 ㅤ ㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=yuriletsky&color=6377bf&label=honeypie)
 
   ㅤ ㅤ ㅤ<img src="https://i.ibb.co/VY64tsmG/Untitled922-20260714235815.png" alt="meow" width="11%"/>
